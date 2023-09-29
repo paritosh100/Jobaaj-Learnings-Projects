@@ -1,0 +1,39 @@
+Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+06/08/2022,15:00,Bournemouth,Aston Villa,2,0,H,1,0,H,P Bankes,7,15,3,2,18,16,5,5,3,3,0,0
+20/08/2022,17:30,Bournemouth,Arsenal,0,3,A,0,2,A,C Pawson,6,14,1,6,12,10,3,4,2,1,0,0
+31/08/2022,19:30,Bournemouth,Wolves,0,0,D,0,0,D,A Taylor,5,17,2,4,12,12,2,5,2,1,0,0
+01/10/2022,15:00,Bournemouth,Brentford,0,0,D,0,0,D,T Bramall,7,13,1,4,11,10,7,8,1,2,0,0
+08/10/2022,15:00,Bournemouth,Leicester,2,1,H,0,1,A,M Salisbury,10,9,4,5,8,16,7,2,1,2,0,0
+19/10/2022,19:30,Bournemouth,Southampton,0,1,A,0,1,A,J Brooks,15,9,3,3,8,13,7,3,1,3,0,0
+29/10/2022,15:00,Bournemouth,Tottenham,2,3,A,1,0,H,A Taylor,6,23,4,7,10,5,2,19,1,2,0,0
+12/11/2022,15:00,Bournemouth,Everton,3,0,H,2,0,H,C Pawson,16,15,9,3,12,8,3,5,2,0,0,0
+31/12/2022,15:00,Bournemouth,Crystal Palace,0,2,A,0,2,A,A Marriner,6,15,2,6,17,11,2,7,4,1,0,0
+21/01/2023,15:00,Bournemouth,Nottingham,1,1,D,1,0,H,A Madley,16,20,4,5,10,7,4,6,1,2,0,0
+11/02/2023,17:30,Bournemouth,Newcastle,1,1,D,1,1,D,S Attwell,11,15,5,7,8,10,4,6,2,3,0,0
+25/02/2023,17:30,Bournemouth,Man City,1,4,A,0,3,A,P Tierney,13,20,2,5,10,9,4,6,2,2,0,0
+11/03/2023,12:30,Bournemouth,Liverpool,1,0,H,1,0,H,J Brooks,5,15,2,6,7,9,3,8,2,1,0,0
+01/04/2023,15:00,Bournemouth,Fulham,2,1,H,0,1,A,P Bankes,12,10,7,2,15,13,4,3,1,4,0,0
+04/04/2023,19:45,Bournemouth,Brighton,0,2,A,0,1,A,D Bond,14,16,3,6,11,5,5,5,1,1,0,0
+23/04/2023,14:00,Bournemouth,West Ham,0,4,A,0,3,A,A Taylor,17,18,5,10,7,8,8,5,1,2,0,0
+30/04/2023,14:00,Bournemouth,Leeds,4,1,H,2,1,H,C Kavanagh,12,15,7,6,12,14,2,6,1,0,0,0
+06/05/2023,15:00,Bournemouth,Chelsea,1,3,A,1,1,D,J Brooks,10,11,4,5,9,11,7,7,1,3,0,0
+20/05/2023,15:00,Bournemouth,Man United,0,1,A,0,1,A,C Kavanagh,10,20,4,5,6,7,3,6,1,0,0,0
+13/08/2022,15:00,Man City,Bournemouth,4,0,H,3,0,H,D Coote,19,3,7,1,9,9,11,1,0,3,0,0
+27/08/2022,15:00,Liverpool,Bournemouth,9,0,H,5,0,H,S Attwell,19,5,12,2,6,5,8,1,0,1,0,0
+03/09/2022,15:00,Nottingham,Bournemouth,2,3,A,2,0,H,M Oliver,11,8,3,3,13,10,4,6,2,1,0,0
+17/09/2022,15:00,Newcastle,Bournemouth,1,1,D,0,0,D,C Pawson,20,10,7,3,10,11,8,1,2,2,0,0
+15/10/2022,15:00,Fulham,Bournemouth,2,2,D,1,2,A,G Scott,19,10,4,6,9,11,5,6,2,0,0,0
+24/10/2022,20:00,West Ham,Bournemouth,2,0,H,1,0,H,D Coote,20,5,4,3,9,11,5,0,0,2,0,0
+05/11/2022,15:00,Leeds,Bournemouth,4,3,H,1,2,A,T Harrington,18,9,4,6,16,10,13,3,2,2,0,0
+27/12/2022,17:30,Chelsea,Bournemouth,2,0,H,2,0,H,S Hooper,15,9,5,4,8,10,6,8,0,0,0,0
+03/01/2023,20:00,Man United,Bournemouth,3,0,H,1,0,H,M Salisbury,18,7,6,4,13,7,6,5,0,3,0,0
+14/01/2023,17:30,Brentford,Bournemouth,2,0,H,1,0,H,J Gillett,12,7,4,2,5,9,5,3,1,1,0,0
+04/02/2023,15:00,Brighton,Bournemouth,1,0,H,0,0,D,C Pawson,20,12,6,2,14,7,7,3,3,1,0,0
+18/02/2023,15:00,Wolves,Bournemouth,0,1,A,0,0,D,M Salisbury,15,5,4,1,12,10,12,2,3,3,0,0
+04/03/2023,15:00,Arsenal,Bournemouth,3,2,H,0,1,A,C Kavanagh,31,4,9,4,6,8,17,1,0,2,0,0
+18/03/2023,15:00,Aston Villa,Bournemouth,3,0,H,1,0,H,R Jones,20,10,9,3,8,13,9,6,1,4,0,0
+08/04/2023,15:00,Leicester,Bournemouth,0,1,A,0,1,A,D Coote,14,19,4,7,10,13,6,6,0,3,0,0
+15/04/2023,15:00,Tottenham,Bournemouth,2,3,A,1,1,D,A Madley,24,6,8,6,8,9,8,1,1,2,0,0
+27/04/2023,19:45,Southampton,Bournemouth,0,1,A,0,0,D,D England,11,16,2,2,9,11,6,4,0,3,0,0
+13/05/2023,15:00,Crystal Palace,Bournemouth,2,0,H,1,0,H,M Salisbury,17,5,5,0,5,12,11,2,0,2,0,0
+28/05/2023,16:30,Everton,Bournemouth,1,0,H,0,0,D,S Attwell,13,7,6,2,11,12,9,3,1,3,0,0

@@ -1,0 +1,39 @@
+Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee,HS,AS,HST,AST,HF,AF,HC,AC,HY,AY,HR,AR
+06/08/2022,15:00,Newcastle,Nottingham,2,0,H,0,0,D,S Hooper,23,5,10,0,9,14,11,1,0,3,0,0
+21/08/2022,16:30,Newcastle,Man City,3,3,D,2,1,H,J Gillett,12,21,6,10,14,7,5,5,4,2,0,0
+03/09/2022,15:00,Newcastle,Crystal Palace,0,0,D,0,0,D,M Salisbury,23,19,6,9,19,12,13,5,2,1,0,0
+17/09/2022,15:00,Newcastle,Bournemouth,1,1,D,0,0,D,C Pawson,20,10,7,3,10,11,8,1,2,2,0,0
+08/10/2022,15:00,Newcastle,Brentford,5,1,H,2,0,H,J Brooks,16,6,6,3,14,9,9,5,0,1,0,0
+19/10/2022,19:30,Newcastle,Everton,1,0,H,1,0,H,T Harrington,16,1,4,0,9,12,8,2,2,4,0,0
+29/10/2022,15:00,Newcastle,Aston Villa,4,0,H,1,0,H,P Tierney,20,3,7,0,11,11,3,0,1,1,0,0
+12/11/2022,17:30,Newcastle,Chelsea,1,0,H,0,0,D,R Jones,10,5,3,2,14,11,5,3,3,2,0,0
+31/12/2022,15:00,Newcastle,Leeds,0,0,D,0,0,D,S Hooper,16,8,5,1,13,19,9,3,3,5,0,0
+15/01/2023,14:00,Newcastle,Fulham,1,0,H,0,0,D,R Jones,20,5,5,0,6,14,10,5,1,3,0,0
+04/02/2023,17:30,Newcastle,West Ham,1,1,D,1,1,D,P Bankes,8,10,2,1,11,13,4,2,2,1,0,0
+18/02/2023,17:30,Newcastle,Liverpool,0,2,A,0,2,A,A Taylor,14,13,4,7,3,8,6,7,1,1,1,0
+12/03/2023,16:30,Newcastle,Wolves,2,1,H,1,0,H,A Madley,19,7,8,4,11,10,10,3,1,2,0,0
+02/04/2023,16:30,Newcastle,Man United,2,0,H,0,0,D,S Attwell,22,6,6,1,8,12,7,4,0,0,0,0
+23/04/2023,14:00,Newcastle,Tottenham,6,1,H,5,0,H,D Coote,25,11,8,3,7,13,9,3,0,3,0,0
+30/04/2023,14:00,Newcastle,Southampton,3,1,H,0,1,A,A Taylor,22,4,5,3,7,10,11,2,1,4,0,0
+07/05/2023,16:30,Newcastle,Arsenal,0,2,A,0,1,A,C Kavanagh,12,10,5,6,16,12,9,4,2,1,0,0
+18/05/2023,19:30,Newcastle,Brighton,4,1,H,2,0,H,R Jones,22,8,9,2,17,16,6,1,2,4,0,0
+22/05/2023,20:00,Newcastle,Leicester,0,0,D,0,0,D,A Marriner,23,1,4,1,9,5,12,1,2,0,0,0
+13/08/2022,15:00,Brighton,Newcastle,0,0,D,0,0,D,G Scott,13,4,7,1,8,6,7,3,2,3,0,0
+28/08/2022,14:00,Wolves,Newcastle,1,1,D,1,0,H,P Bankes,10,21,4,6,10,11,4,13,2,1,0,0
+31/08/2022,20:00,Liverpool,Newcastle,2,1,H,0,1,A,A Marriner,23,5,6,2,9,10,13,0,0,2,0,0
+01/10/2022,15:00,Fulham,Newcastle,1,4,A,0,3,A,D England,3,19,1,10,9,10,1,8,2,0,1,0
+16/10/2022,14:00,Man United,Newcastle,0,0,D,0,0,D,C Pawson,15,9,2,2,13,11,4,4,3,1,0,0
+23/10/2022,16:30,Tottenham,Newcastle,1,2,A,0,2,A,J Gillett,17,13,5,5,12,6,6,7,4,2,0,0
+06/11/2022,14:00,Southampton,Newcastle,1,4,A,0,1,A,S Attwell,16,7,5,4,7,10,8,2,1,0,0,0
+26/12/2022,15:00,Leicester,Newcastle,0,3,A,0,3,A,J Gillett,8,12,2,5,9,6,5,5,0,0,0,0
+03/01/2023,19:45,Arsenal,Newcastle,0,0,D,0,0,D,A Madley,17,8,4,1,10,16,5,5,4,4,0,0
+21/01/2023,17:30,Crystal Palace,Newcastle,0,0,D,0,0,D,C Pawson,6,16,1,7,13,7,3,15,4,2,0,0
+11/02/2023,17:30,Bournemouth,Newcastle,1,1,D,1,1,D,S Attwell,11,15,5,7,8,10,4,6,2,3,0,0
+04/03/2023,12:30,Man City,Newcastle,2,0,H,1,0,H,S Hooper,11,5,3,2,8,13,8,4,2,4,0,0
+17/03/2023,20:00,Nottingham,Newcastle,1,2,A,1,1,D,P Tierney,5,15,3,4,17,9,3,7,5,1,0,0
+05/04/2023,20:00,West Ham,Newcastle,1,5,A,1,2,A,C Pawson,7,15,2,8,11,12,7,6,2,1,0,0
+08/04/2023,15:00,Brentford,Newcastle,1,2,A,1,0,H,C Kavanagh,12,10,6,4,10,15,6,5,0,0,0,0
+15/04/2023,12:30,Aston Villa,Newcastle,3,0,H,1,0,H,J Brooks,16,8,6,2,13,15,7,2,1,1,0,0
+27/04/2023,19:45,Everton,Newcastle,1,4,A,0,1,A,A Marriner,13,15,5,8,8,6,3,14,2,1,0,0
+13/05/2023,12:30,Leeds,Newcastle,2,2,D,1,1,D,S Hooper,9,18,4,5,16,14,2,6,3,2,1,0
+28/05/2023,16:30,Chelsea,Newcastle,1,1,D,1,1,D,J Gillett,22,13,5,4,9,11,10,3,0,0,0,0
